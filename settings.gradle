@@ -1,0 +1,2 @@
+rootProject.name='AmericanFootball_Scorekeeper'
+include ':app'
